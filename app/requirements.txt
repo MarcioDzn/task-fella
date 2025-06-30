@@ -1,2 +1,7 @@
+aerich
 fastapi
 pydantic
+pydantic_settings
+python-decouple
+sqlalchemy
+tortoise-orm
